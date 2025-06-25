@@ -1,7 +1,31 @@
-## Model fine-tuning 🛠️
+# Data Transformer Fine-Tuning Challenge 🚀
 
-Now that you've seen what's possible with Transformer based models, we're going to take at how we can work with a family of encoder models called BERT!
+This project is a part of a fine-tuning challenge focused on training transformer-based models for structured tabular data. It aims to explore the effectiveness of adapting transformer architectures—commonly used in NLP—for supervised learning tasks on structured datasets.
 
-Specifically, we're going to see how we can use them to create features for a classification Neural Network, then we'll go even deeper and start playing with the weights of the model, tuning it specifically on our desired task.
+## 📌 Project Goals
 
-Let's get cracking 🔥🔥🔥
+- Fine-tune a data transformer model on structured/tabular datasets.
+- Evaluate model performance using classification or regression metrics.
+- Explore the benefits and limitations of transformer-based models vs traditional ML models (e.g., XGBoost, Random Forest).
+- Implement best practices for training and experimentation using PyTorch or Hugging Face Transformers.
+
+## 🧠 What You’ll Learn
+
+- How transformer architectures can be adapted for tabular data.
+- Fine-tuning and evaluation workflows.
+- Dataset preprocessing, model architecture tuning, and metric-based evaluation.
+- Experiment tracking and reproducibility.
+
+## 🛠️ Tech Stack
+
+- Python 3.x
+- PyTorch
+- Scikit-learn
+- Pandas / NumPy
+- Matplotlib / Seaborn
+- Hugging Face Transformers (optional)
+- Jupyter Notebooks
+
+## 📁 Project Structure
+
+
